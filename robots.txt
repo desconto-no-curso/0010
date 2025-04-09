@@ -6,3 +6,7 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+https://natflix-fitness.desconto-no-curso.com.br/sitemap.xml
