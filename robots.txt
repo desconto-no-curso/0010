@@ -9,4 +9,4 @@ Disallow:
 
 
 
-https://natflix-fitness.desconto-no-curso.com.br/sitemap.xml
+Sitemap: https://natflix-fitness.desconto-no-curso.com.br/sitemap.xml
